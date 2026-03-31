@@ -7,3 +7,4 @@ my name is vankay
 my name is dosakay
 i am egg
 i am pig
+i am amar
